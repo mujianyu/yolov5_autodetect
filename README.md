@@ -24,7 +24,7 @@
 <p>1.Fetching projects from git</p>
 
 ```bash
-git clone https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg.git
+git clone https://github.com/mujianyu/yolov5_autodetect.git
 ```
 
 <p>2.Switching the operating directory to the project directory</p>
